@@ -95,7 +95,5 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-- **Email:** inqery@investa.io
-- **Phone:** +1 496 6696369
-- **Office:** 186, G Block, Road-7, South Point, Jersey, Network
+- **Email:** arafatibrahim667@gmail.com
 Live Preview-> [https://arafatbinibrahim.github.io/Project_Investa/](https://arafatbinibrahim.github.io/Investa/)
